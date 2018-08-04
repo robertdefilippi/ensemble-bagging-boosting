@@ -1,5 +1,5 @@
 # Boosting, Bagging, and Stacking - Ensemble Methods with sklearn and mlens
-![Image](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/cover.png?raw=true)
+![Image](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/image.png?raw=true)
 
 Jupyter notebook for the Medium article "Boosting, Bagging, and Stacking - Ensemble Methods with sklearn and mlens"
 
